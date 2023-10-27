@@ -5,7 +5,7 @@
    Project 2: Synthetic Relationships
 </head>
 <body>
-    <h1> Demonstration of wearable, audio-based system in delivering real-time self-argumentation</h1>
+    <h1> A gets interpretation of color while B gets distance </h1>
     <p></p>
     <img src="Diagram.jpg" alt="A diagram for the reasoning process">
 </body>
