@@ -7,6 +7,7 @@
 <body>
     <h1> A gets interpretation of color while B gets distance </h1>
     <p></p>
-    <img src="Diagram.jpg" alt="A diagram for the reasoning process">
+    <img src="Diagram.jpg" alt="A diagram for the process">
 </body>
+    https://youtu.be/iJR7IlB6teQ
 </html>
