@@ -9,8 +9,8 @@
     <p></p>
     <img src="Diagram_2.png" alt="A diagram for the process">
 </body>
-    https://youtu.be/iJR7IlB6teQ
-    A and B are in the same environment. Here are the processes of the information transformation from A & B sides.
+    Link: https://youtu.be/iJR7IlB6teQ
+    Description: A and B are in the same environment. Here are the processes of the information transformation from A & B sides.
 
 A to B: A with RGB sensor is watching “Wheel of Fortune” (Colors are always changing in the screen). A gets interpretation of “color,” sends to cloud. A sees and interacts with the world through color and light. B receives “color,” use that to turn servo. Spin the wheel!
 
