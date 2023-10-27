@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Project 2: Synthetic Relationships</title>
+   Project 2: Synthetic Relationships
 </head>
 <body>
     <h1> Demonstration of wearable, audio-based system in delivering real-time self-argumentation</h1>
