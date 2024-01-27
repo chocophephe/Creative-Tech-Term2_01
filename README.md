@@ -7,7 +7,7 @@
 <body>
     <h1> A diagram for the API fetching process </h1>
     <p></p>
-    <img src="Diagram_2.png" alt="A diagram">
+    <img src="Diagram_1.png" alt="A diagram">
 </body>
     
 </html>
